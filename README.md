@@ -86,9 +86,9 @@ The model was evaluated using the test dataset, and the following metrics were u
 The model achieved a validation accuracy of 93.10%. Below are the detailed results:
 
 - **Confusion Matrix:**
-  ![Confusion Matrix](Heatmaps/confusion_matrix.png)
+  ![Confusion Matrix](Content/Confusion_Matrix.png)
 - **Loss Curves:**
-  ![Loss Curves](Heatmaps/loss_curves.png)
+  ![Loss Curves](Content/Sample.png)
 
 ## Benefits
 
