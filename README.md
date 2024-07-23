@@ -109,7 +109,7 @@ This project demonstrates the potential of Vision Transformers in medical image 
 
 For any questions or collaboration, please contact:
 
-- Email: erdem@example.com
+- Email: erdemaslan1905s@gmail.com
 
 ## License
 
