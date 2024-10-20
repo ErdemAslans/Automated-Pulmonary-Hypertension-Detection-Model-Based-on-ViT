@@ -1,6 +1,6 @@
 # Pulmonary Hypertension Detection
 
-This repository contains the implementation of a Vision Transformer (ViT) model for the detection of pulmonary hypertension
+This repository contains the implementation of a Vision Transformer (ViT) model for the detection of pulmonary hypertension.
 
 ## Table of Contents
 
