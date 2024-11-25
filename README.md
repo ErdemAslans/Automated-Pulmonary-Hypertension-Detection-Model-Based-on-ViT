@@ -14,7 +14,7 @@ This repository contains the implementation of a Vision Transformer (ViT) model 
 8. [Benefits](#benefits)
 9. [Challenges](#challenges)
 10. [Conclusion](#conclusion)
-11. [Contact](#contact)
+11. [Contact](#contact) 
 12. [License](#license)
 
 ## Introduction
