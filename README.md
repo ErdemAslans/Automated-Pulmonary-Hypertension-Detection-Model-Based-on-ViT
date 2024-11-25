@@ -10,7 +10,7 @@ This repository contains the implementation of a Vision Transformer (ViT) model 
 4. [Model Architecture](#model-architecture)
 5. [Training](#training)
 6. [Evaluation](#evaluation)
-7. [Results](#results)
+7. [Results](#results) 
 8. [Benefits](#benefits)
 9. [Challenges](#challenges)
 10. [Conclusion](#conclusion)
